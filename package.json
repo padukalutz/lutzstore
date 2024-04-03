@@ -1,0 +1,33 @@
+{
+  "name": "lutzstore",
+  "version": "1.0.0",
+  "description": "Gatau lah malez wkwkwk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padukalutz/lutzstore.git"
+  },
+  "keywords": [
+    "lutzstore",
+    "bot",
+    "topup",
+    "nodejs",
+    "digiflazz",
+    "apigames",
+    "tokopay",
+    "payment-gateway"
+  ],
+  "author": "Lutz Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padukalutz/lutzstore/issues"
+  },
+  "homepage": "https://github.com/padukalutz/lutzstore#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
